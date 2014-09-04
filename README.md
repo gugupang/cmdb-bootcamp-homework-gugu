@@ -1,2 +1,0 @@
-cmdb-bootcamp-homework-gugu
-===========================
